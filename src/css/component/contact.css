@@ -31,5 +31,41 @@ form .corps-formulaire{
 }
 
 form .corps-formulaire .groupe{
-    margin-top: 20px ;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+form .corps-formulaire .groupe input{
+    margin-top: 5px;
+    padding: 10px; 
+    border: 3px solid #786478;
+}
+
+form .corps-formulaire .groupe textarea{
+    height: 100%;
+    margin-top: 5px;
+    padding: 10px;
+    border: 3px solid #786478;
+    resize: none;
+    height: 72%;
+}
+
+form .pied-formulaire button {
+    margin-top: 10px;
+    background-color:#786478 ;
+    color: white;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    transition: transform 0.5s;
+
+}
+
+form .pied-formulaire button:hover {
+    transform: scale(1.05);
+    
 }
