@@ -1,0 +1,30 @@
+:root {
+
+/* Color styles */
+--ecriture-1: rgba(0, 0, 0, 1);
+--couleur-3: rgba(255, 255, 255, 1);
+--couleur-4: rgba(128, 75, 141, 1);
+--couleur-de-fond:rgba(156, 130, 146, 1);
+--header-1:rgba(120, 100, 120, 1);
+--header-2:rgba(206, 197, 209, 1);
+--e-n--s-a-v-o-i-r-p-l-u-s:rgba(255, 255, 255, 1);
+
+/* Text-size styles */
+--texte:15px;
+--nom-et-date-de-naissance:15px;
+--titre-de-page:25px;
+--intertitre:15px;
+
+--base: 16px;
+--title-lg: 25px;
+--text-rg: 15px;
+--text-rg: 15px;
+--text-bold: 17px;
+--text-rg: 12px;
+
+
+/*Font family style*/
+--font-oxygen: 'Oxygen';
+--font-mulish: 'mulish';
+--font-Rozha-one: 'Rosha-one';
+}
