@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+     background-color: #9C8292;
+     position:absolute;
+     font-family: 'oxygen';
+     font-weight: 'regular';
+
+  
+}
+
+form{
+    background-color: #CEC5D1;
+    padding: 30px;
+}
+
+form h2{
+    font-size: 20px ;
+}
+
+form .separation{
+    width: 100%;
+}
