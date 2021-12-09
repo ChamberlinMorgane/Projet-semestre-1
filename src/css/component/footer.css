@@ -1,0 +1,28 @@
+	
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+footer{
+    background-color: #786478;
+    font-family: 'mulish' ;
+    font-weight: lighter;
+   border-top: 1px;
+   width: 100%;
+   color:white;
+}
+
+.contenu-footer {
+    margin: 0 auto;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 12px;
+    padding: 10px;
+}
+
+
+
