@@ -12,7 +12,9 @@ body {
   background-color: var(--gray-white);
 }
 
-h1, h2 {
-  font-family: var(--font-mono);
-  font-weight: normal;
-  line-height: 1.1;}
+h1 {
+  font-family: var(--font-mulish);
+  font-weight: lighter;
+  line-height: 25px;
+}
+  
