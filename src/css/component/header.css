@@ -2,9 +2,26 @@
 
 .header{
     background-color: #CEC5D1;
+    border-radius: 50px;
    }
+   
     
-.menu__list{
-  
+.header__logo{
+  text-align: center;
+  padding-top: 10px;
+}
 
+.header__menu__item{
+  display: flex;
+  margin-left: auto;
+  margin-right: 10px;
+  background-color: #CEC5D1 ;
+  border: none;
+
+  
+}
+
+.header__titre__h1{
+  text-align: center;
+  padding-bottom: 30px;
 }
