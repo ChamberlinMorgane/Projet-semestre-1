@@ -1,9 +1,4 @@
-	
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
+
 
 footer{
     background-color: #786478;
@@ -14,15 +9,20 @@ footer{
    color:white;
 }
 
-.contenu-footer {
+footer {
     margin: 0 auto;
-    display: flex;
-    align-items: flex-start;
-    justify-content: center;
-    align-items: flex-start;
     font-size: 12px;
     padding: 10px;
 }
 
+.social-network__list{
+  display: flex;
+  gap: 10px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
 
-
+.footer__mentions-legales{
+  text-align: center;
+}
