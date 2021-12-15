@@ -17,4 +17,18 @@ h1 {
   font-weight: lighter;
   line-height: 25px;
 }
+
+
+h2 {
+  font-family: var(--font-mulish);
+  font-weight: normal;
+  line-height: 15px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
   

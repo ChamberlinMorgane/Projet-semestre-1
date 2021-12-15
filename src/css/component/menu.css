@@ -1,5 +1,5 @@
 .header__menu__list{
   visibility: hidden;
-  position: fixed;
+  position: absolute;
 
 }
