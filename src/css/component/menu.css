@@ -1,12 +1,44 @@
-.header__menu__list{
-  visibility: hidden;
-  position: absolute;
-
-}
-
 .menu__categories{
   font-family: 'mulish';
   font-size: 15px;
   text-decoration: none;
+  color: black;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.header__menu__list{
+  background-color: #CEC5D1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transform: translateX(100vw);
+  transition: all 1s;
+  z-index: 1;
+}
+
+.menu-open .header__menu__list {
+  transform: translateX(0);
+
+}
+
+.header__logo{
+  z-index: 2;
+}
+
+.header__menu__item {
+  z-index: 2;
+}
+
+.header__menu__list a{
   color: black;
 }
