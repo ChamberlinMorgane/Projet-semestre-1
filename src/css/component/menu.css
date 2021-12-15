@@ -3,3 +3,10 @@
   position: absolute;
 
 }
+
+.menu__categories{
+  font-family: 'mulish';
+  font-size: 15px;
+  text-decoration: none;
+  color: black;
+}
