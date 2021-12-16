@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="src/css/style.css">
 
 </head>
-<body class="">
+<body>
     
     <header class="header">
         <div class="header__alignement">
@@ -19,9 +19,10 @@
         <div class="header__logo">
             <a href="index.html"><img src="public/img/icones/petitlogo.svg" alt="logo women's power"></a></div>
     
-        <button class="header__menu__item">
+        <button class="header__menu__item" onclick="document.documentElement.classList.toggle('menu-open')">
             <img src="public/img/icones/menu-open.svg" alt="menu déroulant">
         </button>
+
         <nav class="header__menu__list">
             <ul>
                 <li class="menu__categories"><a href="le-combat-du-sexe-sous-estimé.html">LE COMBAT DU SEXE SOUS ESTIMÉ</a></li>

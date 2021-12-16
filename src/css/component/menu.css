@@ -26,9 +26,18 @@
   z-index: 1;
 }
 
+.menu-open .header__menu__item{
+  transform: rotate(135deg);
+}
+
 .menu-open .header__menu__list {
   transform: translateX(0);
 
+}
+
+.menu-open,
+.menu-open body{
+  overflow: hidden;
 }
 
 .header__logo{
