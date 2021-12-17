@@ -10,16 +10,17 @@
 <body>
 
     <header class="header">
+        <div class="header__alignement">
         <a href="/"> </a>
         <div class="header__logo">
             <a href="index.html"><img src="public/img/icones/petitlogo.svg" alt="logo women's power"></a></div>
     
-        <button class="header__menu__item">
-            <img src="public/img/icones/menu-open.svg" alt="menu déroulant">
-        </button>
-        <h1 class="header__titre__h1">AUTRES PROJETS</h1>
-        <nav>
-            <ul class="header__menu__list">
+        <div class="header__menu__item" onclick="document.documentElement.classList.toggle('menu-open')">
+        <div class="header__menu__item-bar"></div></div>
+    <div class="menu__titre"><h1>MENU</h1></div>
+        <nav class="header__menu__list">
+            
+            <ul>
                 <li class="menu__categories"><a href="le-combat-du-sexe-sous-estimé.html">LE COMBAT DU SEXE SOUS ESTIMÉ</a></li>
                 <li class="menu__categories"><a href="Oprah-Winfrey-plus-qu'une-femme-une-guérrière.html">OPRAH WINFREY PLUS QU'UNE FEMME,UNE GUERRIERE</a></li>
                 <li class="menu__categories"><a href="Wonder-woman-figure-réellement-féministe.html">WONDER WOMAN FIGURE RÉELLEMENT FÉMINISTE ?</a></li>
@@ -31,6 +32,8 @@
                 <li class="menu__categories"><a href="contact.html">CONTACT</a></li>
             </ul>
         </nav>
+        </div>
+    <h1 class="header__titre__h1">AUTRES-PROJETS</h1>
     </header>
 
 <main>

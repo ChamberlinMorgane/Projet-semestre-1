@@ -49,7 +49,7 @@
 .header__menu__list {
   background-color: #CEC5D1 ;
   position: fixed;
-  padding: 20px;
+  padding: 60px;
   top: 0;
   left: 0;
   bottom: 0;
@@ -89,6 +89,7 @@
 
 .menu__categories a {
   color: black;
+  text-decoration: none;
 }
 
 .menu-open .menu__categories{
@@ -106,5 +107,8 @@
 .menu-open .menu__categories:nth-child(n+8) {transition: .65s;;}
 .menu-open .menu__categories:nth-child(n+9) {transition: .7s;;}
 
-
+.menu__titre {
+  position: absolute;
+  visibility: hidden;
+}
 
