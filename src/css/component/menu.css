@@ -49,6 +49,7 @@
 .header__menu__list {
   background-color: #CEC5D1 ;
   position: fixed;
+  padding: 20px;
   top: 0;
   left: 0;
   bottom: 0;
