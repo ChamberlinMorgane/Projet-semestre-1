@@ -73,7 +73,7 @@
 
 .header__menu__list ul {
   list-style: none;
-  margin: 0;
+  margin-top: 150px;
   padding: 0;
   font-size: 15px;
   text-transform: uppercase;
@@ -107,8 +107,15 @@
 .menu-open .menu__categories:nth-child(n+8) {transition: .65s;;}
 .menu-open .menu__categories:nth-child(n+9) {transition: .7s;;}
 
-.menu__titre {
-  position: absolute;
-  visibility: hidden;
+.menu__titre{
+ padding-bottom: 500px;
+
 }
 
+.rond{
+  width: 70px;
+  height: 30px;
+  background-color:  #9C8292;
+  border-radius: 20px;
+
+}

@@ -15,12 +15,21 @@ footer {
     padding: 10px;
 }
 
+.footer__contact{
+  text-decoration: none;
+}
+
 .social-network__list{
   display: flex;
   gap: 10px;
   list-style: none;
   margin: 0;
-  padding: 50px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 15px;
+  
+
   
 }
 

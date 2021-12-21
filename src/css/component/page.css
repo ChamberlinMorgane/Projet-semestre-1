@@ -1,10 +1,24 @@
 .paragraphe{
-    margin-top: 100px;
-    margin-left: 10px;
-    margin-bottom: 100px;
+    line-height: 20px;
+    padding-left: 15px;
+    padding-bottom: 30px;
+    padding-right: 15px;
 }
+
+.paragraphe a {
+    margin-top: 30px;
+    background-color:#786478 ;
+    color: white;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none; 
+}
+
 
 .main__autres-projets{
    margin-left: 100px;
-   margin-bottom: 20px;
+   padding-bottom: 30px;
+   padding-top: 20px;
 }
