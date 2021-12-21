@@ -25,6 +25,12 @@ h2 {
   line-height: 15px;
 }
 
+h4{
+  font-family: var(--font-mulish);
+  font-weight: normal;
+  line-height: 15px ;
+  gap: 10px;
+}
 img {
   max-width: 100%;
   height: auto;
