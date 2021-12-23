@@ -17,6 +17,8 @@ footer {
 
 .footer__contact{
   text-decoration: none;
+  font-family: var(--font-mulish);
+  font-size: 15px;
 }
 
 .social-network__list{
