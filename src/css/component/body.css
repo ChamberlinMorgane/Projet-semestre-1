@@ -16,9 +16,32 @@
     text-decoration: none; 
 }
 
+.paragraphe__sujet {
+    font-weight: bold;
+}
 
 .main__autres-projets{
    margin-left: 100px;
    padding-bottom: 30px;
    padding-top: 20px;
+}
+
+.main__premier-article a {
+    text-decoration: underline;
+    color: black ;
+}
+
+.main__premier-article{
+    margin: 15px;
+}
+
+.lien__article-suivant{
+    margin-top: 10px;
+    background-color:#786478 ;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
 }
