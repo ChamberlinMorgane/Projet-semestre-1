@@ -33,15 +33,41 @@
 
 .main__premier-article{
     margin: 15px;
+    line-height: 20px;
 }
 
 .lien__article-suivant{
     margin-top: 10px;
     background-color:#786478 ;
+    color: white;
     font-size: 15px;
     border: none;
     padding: 10px 20px;
     border-radius: 5px;
-    text-decoration: none;
-    color: black;
+    outline: none;
+    cursor: pointer;
+    transition: transform 0.5s;
 }
+
+.main__second-article{
+    margin: 15px;
+    line-height: 20px;
+}
+
+.main__second-article a {
+    text-decoration: underline;
+    color: black ;
+}
+
+.lien__troisieme-article{
+    margin: 15px;
+    line-height: 20px;
+}
+
+.lien__troisieme-article a {
+    text-decoration: underline;
+    color: black ;
+}
+
+
+

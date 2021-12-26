@@ -32,3 +32,9 @@
   text-align: center;
   padding-bottom: 30px;
 }
+
+.header__titre__h2{
+  text-align: center;
+  padding-bottom: 30px;
+  line-height: 25px;
+}
