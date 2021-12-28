@@ -69,5 +69,25 @@
     color: black ;
 }
 
+.main__galerie{
+    margin: 15px;
+    
+}
+
+.galerie__figure{
+    float: right; 
+    margin: -120px 10px -100px 200px; 
+    padding-left: 15px;
+}
+
+
+.main__a-propos{
+    margin: 15px;
+}
+
+.main__glossaire{
+    margin: 15px;
+}
+
 
 

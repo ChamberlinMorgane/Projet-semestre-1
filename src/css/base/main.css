@@ -35,7 +35,7 @@ h4{
 h5{
   font-family: var(--font-mulish);
   font-size: 15px;
-  font-weight: bold;
+  font-weight: bolder;
 
 }
 
@@ -50,6 +50,13 @@ img {
   max-height: 200px;
   height: auto;
   display:flex;
+}
+
+dt{
+  font-family: var(--font-mulish);
+  font-weight: bolder;
+  font-size: 17px;
+  padding-bottom: 15px;
 }
 
 

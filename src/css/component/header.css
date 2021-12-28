@@ -2,9 +2,9 @@
 
 .header{
     background-color: #CEC5D1;
-    border-radius: 50px;
-
-   }
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
 
 .header__alignement{
  display: flex;
