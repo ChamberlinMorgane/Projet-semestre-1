@@ -6,7 +6,7 @@
 }
 
 .paragraphe__accueil a {
-    margin-top: 30px;
+    margin: 80px;
     background-color:#786478 ;
     color: white;
     font-size: 15px;
@@ -88,6 +88,47 @@
 .main__glossaire{
     margin: 15px;
 }
+
+.main__titre-article__left{
+    margin-top: 40px;
+    margin-left: -20px;
+    background-color:white ;
+    color: black;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;
+}
+
+.main__titre-article__right{
+    margin-top: 40px;
+    margin-right: -20px;
+    background-color:white ;
+    color: black;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;
+}
+
+.main__sous-titre-article__left{
+    margin-top: 40px;
+    margin-left: -20px;
+    background-color:#CEC5D1 ;
+    color: black;
+    font-size: 15px;
+    border: none;
+    padding: 10px 20px;}
+
+.main__sous-titre-article__right{
+        margin-top: 40px;
+        margin-right: -20px;
+        background-color:#CEC5D1 ;
+        color: black;
+        font-size: 15px;
+        border: none;
+        padding: 10px 20px;}
+
+
+
 
 
 
