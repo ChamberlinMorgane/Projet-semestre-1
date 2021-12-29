@@ -1,11 +1,11 @@
-.paragraphe__accueil{
+.main__accueil{
     line-height: 20px;
     padding-left: 15px;
     padding-bottom: 30px;
     padding-right: 15px;
 }
 
-.paragraphe__accueil a {
+.main__accueil a {
     margin: 80px;
     background-color:#786478 ;
     color: white;
@@ -16,7 +16,7 @@
     text-decoration: none; 
 }
 
-.paragraphe__sujet {
+.main__accueil-sujet {
     font-weight: bold;
 }
 
