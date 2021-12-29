@@ -10,7 +10,12 @@ body {
   font-size: var(--text-rg);
   line-height: 15px;
   background-color: var(--gray-white);
+  margin: 0px;
+  padding: 0px;
+  background-color: #9C8292;
+  position:absolute;
 }
+
 
 h1 {
   font-family: var(--font-mulish);
