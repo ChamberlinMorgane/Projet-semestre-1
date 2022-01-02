@@ -1,0 +1,29 @@
+.DateGauche {
+height: 60px;
+width: 60px;
+border-radius: 50%;
+background-color:  #CEC5D1;
+display: flex;
+justify-content: center;
+padding-top: 20px;
+font-family: var(--font-mulish);
+letter-spacing: 5px;
+}
+
+.DateDroite{
+height: 60px;
+width: 60px;
+border-radius: 50%;
+background-color:  #CEC5D1;
+display: flex;
+justify-content: center;
+margin-left: 280px;
+padding-top: 20px;
+letter-spacing: 5px;
+}
+
+.TexteGauche{}
+
+.TexteDroite{
+
+}
