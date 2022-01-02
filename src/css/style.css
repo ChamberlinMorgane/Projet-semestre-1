@@ -5,8 +5,8 @@
 /*component*/
 
 @import url("component/contact.css");
-@import url("component/footer.css");
-@import url("component/header.css");
+@import url("layout/footer.css");
+@import url("layout/header.css");
 @import url("component/menu.css");
 @import url("component/body.css");
-@import url("component/frise-chronolohique.css");
+@import url("component/frise-chronologique.css");

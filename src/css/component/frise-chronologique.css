@@ -22,8 +22,10 @@ padding-top: 20px;
 letter-spacing: 5px;
 }
 
-.TexteGauche{}
+.TexteGauche{
+    padding-left: 70px;
+}
 
 .TexteDroite{
-
+padding-left: 70px;
 }
