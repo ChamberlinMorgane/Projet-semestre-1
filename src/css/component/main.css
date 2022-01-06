@@ -22,8 +22,19 @@
 
 .main__autres-projets{
    margin-left: 100px;
-   padding-bottom: 30px;
-   padding-top: 20px;
+   margin-right: 60px;
+   padding-bottom: 60px;
+   padding-top: 40px;
+   
+}
+
+.main__autres-projets a{
+    color: black;
+    text-decoration: none;
+}
+
+.image__autresprojet{
+    width: 50px;
 }
 
 .main__premier-article a {
