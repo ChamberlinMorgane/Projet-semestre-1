@@ -30,6 +30,12 @@ h2 {
   font-size: 25px;
 }
 
+h3{
+  font-family: var(--font-mulish);
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+
 h4{
   font-family: var(--font-mulish);
   font-weight: normal;
@@ -51,10 +57,8 @@ p{
 }
 
 img {
-  max-width: 100%;
-  max-height: 200px;
-  height: auto;
-
+  width : 100%; 
+  height : auto;
 }
 
 dt{
@@ -62,10 +66,17 @@ dt{
   font-weight: bolder;
   font-size: 17px;
   padding-bottom: 15px;
+  letter-spacing: 4px;
+  padding-top: 20px;
 }
 
 li{
   font-size: 14px;
+}
+
+blockquote{
+  font-size: 15px;
+  font-family: var(--font-Rozha-one);
 }
 
 

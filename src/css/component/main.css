@@ -32,8 +32,8 @@
     color: black;
 }
 
-.image__autresprojet{
-    width: 50px;
+.main__autres-projets img {
+    width: 70px;
 }
 
 .main__premier-article a {
@@ -89,13 +89,22 @@
 
 .main__galerie{
     margin: 15px;
+    padding-bottom: 40px;
     
+}
+
+.main__galerie img{
+    width: 200px;
 }
 
 .galerie__figure{
     float: right; 
     margin: -120px 10px -100px 200px; 
     padding-left: 15px;
+}
+
+.galerie__paragraphe{
+    padding-bottom: 30px;
 }
 
 
@@ -136,6 +145,7 @@
     border: none;
     padding: 10px 20px;}
 
+
 .main__sous-titre-article__right{
         margin-top: 40px;
         margin-right: -20px;
@@ -156,7 +166,6 @@
 .paragraphe{
     margin: 15px;
 }
-
 
 
 

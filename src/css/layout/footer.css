@@ -28,6 +28,8 @@ footer {
 
 .footer__contact-img{
   margin-top: 10px;
+  width: 24px;
+  
 }
 
 .social-network__list{
@@ -44,3 +46,8 @@ footer {
 .footer__mentions-legales{
   text-align: center;
 }
+
+.footer__mentions-legales img{
+  width: 40px;
+}
+
