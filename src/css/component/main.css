@@ -168,6 +168,17 @@
     margin: 15px;
 }
 
+.main__acceuil__micro-trottoir{
+    width: 250px;
+    padding: 10px;
+    background-color: white;
+    font-family: var(--font-mulish);
+    font-size: 20px;
+    margin-left: 50px;
+    margin-top: 80px;
+    margin-bottom: -60px;
+}
+
 
 
 
